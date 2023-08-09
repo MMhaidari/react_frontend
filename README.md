@@ -91,7 +91,7 @@ git clone https://github.com/MMhaidari/react_frontend
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/MMhaidari/react_frontend).
+Feel free to check the [issues page](https://github.com/MMhaidari/react_frontend/issues).
 
 ## Show your support
 
